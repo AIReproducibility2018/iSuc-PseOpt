@@ -1,0 +1,7 @@
+Folds;Version;Sensitivity;Specificity;Accuracy;MCC;AUC
+10;Original;68.8;96.48;87.44;0.7084;0.9468
+10;Reproduction;89.20;92.18;91.44;0.7826;0.9572
+8;Original;69.30;96.56;87.71;0.7137;0.9470
+8;Reproduction;89.71;92.60;91.89;0.7935;0.9575
+6;Original;69.38;96.86;87.86;0.7193;0.9475
+6;Reproduction;89.64;92.57;91.84;0.7925;0.9597

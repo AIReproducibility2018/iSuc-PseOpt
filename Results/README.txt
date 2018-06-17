@@ -4,6 +4,7 @@ The reproduction attempts were carried out three times, with number of k-fold cr
 Each of these folders contains another set of folders with one folder per fold.
 For each fold we report the list of instances used in the training set (training.csv), and the instances used in the test set together with our predicted class (results.csv).
 For the class labels 1 indicates a positive sample, and 0 a negative sample. The values are delimited with ';'.
+The file result_summary.csv contains the result metrics for the original implementation as reported in the paper, and for our reproduction.
 
 The results are generated with classification cutoffs of [0.5, 0.5].
 

@@ -1,5 +1,0 @@
-Sensitivity: 89.64
-Specificity: 92.57
-Accuracy: 91.84
-MCC: 0.7925
-ROC-AUC: 0.9597
